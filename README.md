@@ -116,7 +116,7 @@ LegalEase/
 ## ⚙️ Installation:
 
 1. Clone the repository:
-       https://github.com/Shivani0906/LegalEase-Legal-Document-Summarizer.git
+       https://github.com/Shivani-KS/LegalEase-Legal-Document-Summarizer.git
 
 Navigate to the project directory:
     cd LegalEase-Legal-Document-Summarizer
